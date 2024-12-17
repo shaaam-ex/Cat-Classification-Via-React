@@ -1,4 +1,4 @@
-# Project Name
+# Image Classification
 
 This is a Python project that sets up a virtual environment, installs dependencies, and runs the cat classification algorithm.
 
