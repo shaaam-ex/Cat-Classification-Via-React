@@ -1,4 +1,4 @@
-# Image Classification
+# Image Classification using Flask and connecting it to React
 
 This is a Python project that sets up a virtual environment, installs dependencies, and runs the cat classification algorithm.
 
